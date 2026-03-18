@@ -1,5 +1,5 @@
 """
-Sampling-Constrained Perception: A Computational Study
+sampling_theory_simulation.py
 =======================================================
 Author  : Mike Kaman
 Contact : 2249 Byron Shores, Byron Center MI 49315
